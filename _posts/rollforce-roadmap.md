@@ -5,7 +5,7 @@ coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2023-04-12T15:30:45.123Z'
 author:
   name: TootyPatrooty
-  picture: '/assets/blog/authors/jj.jpeg'
+  picture: '/assets/blog/authors/tooty.png'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
 ---
