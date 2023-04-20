@@ -1,13 +1,13 @@
 ---
 title: 'Rollforce Roadmap: Your Guide to the Epic Adventure Ahead'
 excerpt: 'Rollforce is a brand new animated series following a team of skilled Rollers as they navigate through the dangerous and exciting world of Rollforce. Join our heroes as they face off against tough enemies, uncover hidden secrets, and work together to save the world from destruction. With stunning animation and a captivating storyline, Rollforce is sure to be a hit among action fans everywhere. Check out our roadmap for the first 10 episodes and get ready for the ride of a lifetime!'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: '/assets/blog/roll/dbcover.png'
 date: '2023-04-12T15:30:45.123Z'
 author:
   name: TootyPatrooty
   picture: '/assets/blog/authors/tooty.png'
 ogImage:
-  url: '/assets/blog/roll/dbcover.jpg'
+  url: '/assets/blog/roll/dbcover.png'
 ---
 
 Hey there Rollforce fans!
