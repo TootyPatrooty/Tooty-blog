@@ -7,7 +7,7 @@ author:
   name: TootyPatrooty
   picture: '/assets/blog/authors/tooty.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/roll/cover.jpg'
 ---
 
 Hey there Rollforce fans!
